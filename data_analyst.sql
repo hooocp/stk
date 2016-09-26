@@ -19,3 +19,6 @@ week_1_open_price,
 week_1_close_price 
 ----data clean--
 
+
+
+
